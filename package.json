@@ -27,9 +27,6 @@
     "three": "^0.168.0",
     "three-stdlib": "^2.33.0"
   },
-  "compilerOptions": {
-  "skipLibCheck": true
-},
   "devDependencies": {
     "@eslint/js": "^9.9.0",
     "@types/gsap": "^1.20.2",
