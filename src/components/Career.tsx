@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>Full Stack Developer</h4>
                 <h5>Ikshan</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2018</h3>
             </div>
             <p>
               Built 6+ complete applications using React.js. Integrated backend
@@ -32,7 +32,7 @@ const Career = () => {
                 <h4>Senior Full Stack Developer</h4>
                 <h5>Monocept (Max Life Insurance)</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2020</h3>
             </div>
             <p>
               Led two development teams on Mpro, a large-scale insurance
